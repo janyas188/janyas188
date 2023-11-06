@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @janyas188
-- 👀 I’m interested in MERN stack,web-based Databse applications
-- 🌱 I’m currently learning biomedical electronic engineering.
-- 💞️ I’m not really looking to collaborate!
+- 👋 Hi, I’m janya!
+- 👀 I’m interested in coding MERN stack,web-based and cloud applications, AI as well as many other areas of engineering!
+- 🌱 I’m graduate in biomedical electronic engineering.
+- 💞️ I’m definitely looking to collaborate!
+- 🏎️ I love motorsport espically formula 1 and I dream to work within formula 1 someday
+- 🎯 I am very passionate about involving girls to STEM espically engineering 
 - 📫 Reach me by Email :D
 
 <!---
